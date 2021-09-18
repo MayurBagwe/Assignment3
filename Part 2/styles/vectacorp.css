@@ -61,6 +61,7 @@ span[id^="v"]{
     margin-right:5px;
     text-align:center;
     padding: 15px 0px 0px 0px;
+    margin-bottom: 10px;
 }
 
 
@@ -69,6 +70,7 @@ span[id^="v"]{
 .pricing  div >h3 {
     border-top: 10px solid;
     margin-bottom:10px;
+    
  }
 /* selects the h3 from first div element*/
  .pricing div:nth-of-type(1) h3{
